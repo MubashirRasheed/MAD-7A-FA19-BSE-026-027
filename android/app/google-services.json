@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948756088719",
+    "project_id": "mad-semester-project-c232f",
+    "storage_bucket": "mad-semester-project-c232f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948756088719:android:b3702a8d2fe04e413d6dfa",
+        "android_client_info": {
+          "package_name": "com.mitech.spectrum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948756088719-9uc2mhe8d4idqf2h2tvavn9efvh7ckmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6okZp-vWkrz-rV6fgjkN7JeMFyNaTkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948756088719-9uc2mhe8d4idqf2h2tvavn9efvh7ckmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
